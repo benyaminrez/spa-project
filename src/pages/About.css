@@ -1,0 +1,15 @@
+.vector{
+    width: auto;
+    height: 40%;
+background-color: crimson;
+border:solid 10px cornsilk;
+border-top: 0;
+border-radius: 50%;
+border-top-left-radius: 0% ;
+border-top-right-radius: 0% ;
+
+
+}
+img {
+    border: 0 !important
+}
